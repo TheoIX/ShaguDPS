@@ -66,3 +66,6 @@ Alternatively you can set it manually in your Config.wtf:
 
 You should keep in mind that some unitframe-addons rely on the combat log range to be set exactly to "40".
 Increasing the range, can break the 40y range checks of those, and others might simply reset it back to "40".
+
+New encounter/ Boss history implemented
+<img width="355" height="279" alt="image" src="https://github.com/user-attachments/assets/e7f57668-e04f-414f-8258-2b7e5ec80d51" />
