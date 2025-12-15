@@ -16,3 +16,4 @@ parser-vanilla.lua
 # interface
 window.lua
 settings.lua
+encounters.lua
